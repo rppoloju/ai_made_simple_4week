@@ -1,0 +1,21 @@
+date,client_industry,session_duration,problem_category,satisfaction_score,repeat_client
+2023-01-05,Finance,65,Data Analysis,4.8,Yes
+2023-01-06,Healthcare,45,Machine Learning,4.2,No
+2023-01-07,Retail,90,Computer Vision,4.9,Yes
+2023-01-10,Technology,75,Natural Language Processing,4.5,No
+2023-01-12,Education,60,Machine Learning,4.7,Yes
+2023-01-15,Finance,70,Data Analysis,4.6,Yes
+2023-01-18,Retail,85,Computer Vision,4.3,No
+2023-01-20,Healthcare,50,Data Analysis,4.4,Yes
+2023-01-22,Technology,95,Reinforcement Learning,4.8,Yes
+2023-01-25,Education,55,Natural Language Processing,4.1,No
+2023-01-28,Finance,80,Machine Learning,4.9,Yes
+2023-01-30,Healthcare,60,Computer Vision,4.6,No
+2023-02-02,Retail,70,Data Analysis,4.7,Yes
+2023-02-05,Technology,85,Natural Language Processing,4.2,Yes
+2023-02-08,Education,50,Machine Learning,4.5,No
+2023-02-10,Finance,75,Computer Vision,4.8,Yes
+2023-02-12,Healthcare,65,Reinforcement Learning,4.3,No
+2023-02-15,Retail,55,Natural Language Processing,4.6,Yes
+2023-02-18,Technology,90,Data Analysis,4.9,Yes
+2023-02-20,Education,60,Machine Learning,4.4,No
