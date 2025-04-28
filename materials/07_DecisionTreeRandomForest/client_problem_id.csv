@@ -1,0 +1,13 @@
+problem_id,problem_description,complexity,time_required,requires_deep_learning,category
+P001,Image recognition system,high,45,yes,computer_vision
+P002,Chatbot development,medium,30,no,nlp
+P003,Sentiment analysis tool,low,20,no,nlp
+P004,Fraud detection system,high,50,yes,anomaly_detection
+P005,Product recommendation engine,medium,35,no,recommendation_systems
+P006,Text summarization tool,medium,25,no,nlp
+P007,Object detection for retail,high,55,yes,computer_vision
+P008,Customer churn prediction,medium,40,no,prediction
+P009,Stock price forecasting,high,60,yes,time_series
+P010,Email spam filter,low,15,no,classification
+P011,Voice assistant integration,high,50,yes,speech_recognition
+P012,Data clustering for marketing,medium,30,no,clustering

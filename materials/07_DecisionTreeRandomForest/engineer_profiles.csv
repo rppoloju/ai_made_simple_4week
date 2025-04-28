@@ -1,0 +1,11 @@
+engineer_id,years_experience,computer_vision_skill,nlp_skill,recommendation_systems_skill,anomaly_detection_skill,time_series_skill,clustering_skill,classification_skill,speech_recognition_skill,available_hours_per_week
+E001,5,high,medium,low,medium,low,medium,high,low,20
+E002,3,low,high,medium,low,low,medium,high,medium,30
+E003,7,medium,medium,high,high,medium,high,medium,low,15
+E004,2,medium,high,low,low,low,low,high,high,40
+E005,10,high,medium,medium,high,high,medium,medium,medium,25
+E006,4,low,low,high,medium,high,high,medium,low,35
+E007,6,high,high,medium,medium,low,low,medium,high,20
+E008,1,low,medium,low,low,medium,high,high,low,40
+E009,8,high,high,high,medium,medium,low,low,medium,15
+E010,3,medium,low,medium,high,high,medium,low,low,25

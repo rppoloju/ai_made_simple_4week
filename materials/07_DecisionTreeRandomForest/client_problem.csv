@@ -1,0 +1,13 @@
+problem_description,complexity,time_required,requires_deep_learning,category
+Image recognition system,high,45,yes,computer_vision
+Chatbot development,medium,30,no,nlp
+Sentiment analysis tool,low,20,no,nlp
+Fraud detection system,high,50,yes,anomaly_detection
+Product recommendation engine,medium,35,no,recommendation_systems
+Text summarization tool,medium,25,no,nlp
+Object detection for retail,high,55,yes,computer_vision
+Customer churn prediction,medium,40,no,prediction
+Stock price forecasting,high,60,yes,time_series
+Email spam filter,low,15,no,classification
+Voice assistant integration,high,50,yes,speech_recognition
+Data clustering for marketing,medium,30,no,clustering
