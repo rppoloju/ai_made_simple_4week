@@ -1,0 +1,51 @@
+engineer_id,specialties,availability,client_satisfaction
+E001,"deep learning, computer vision, PyTorch, CNN architectures, image classification",15,4.8
+E002,"backend development, API design, system architecture, microservices, Python, Java",25,4.6
+E003,"natural language processing, BERT models, sentiment analysis, text classification, transformers",20,4.9
+E004,"cloud deployment, AWS, Docker, Kubernetes, CI/CD pipelines, serverless computing",30,4.5
+E005,"reinforcement learning, game AI, multi-agent systems, policy optimization, simulation",15,4.7
+E006,"data visualization, dashboard design, D3.js, Tableau, interactive analytics, reporting",25,4.4
+E007,"recommendation systems, collaborative filtering, content-based filtering, personalization algorithms",20,4.6
+E008,"distributed systems, big data, Spark, Hadoop, data pipelines, batch processing",10,4.9
+E009,"UI/UX design, frontend frameworks, React, user testing, responsive design, prototyping",30,4.3
+E010,"time series analysis, forecasting models, anomaly detection, ARIMA, LSTM for sequences",20,4.7
+E011,"database optimization, SQL, NoSQL, data modeling, query performance, indexing strategies",25,4.5
+E012,"computer vision, object detection, image segmentation, YOLO, feature extraction, OpenCV",15,4.8
+E013,"DevOps, infrastructure as code, Terraform, monitoring systems, automated testing, CI/CD",30,4.6
+E014,"data preprocessing, feature engineering, data cleaning, handling missing data, outlier detection",25,4.5
+E015,"generative models, GANs, VAEs, image generation, text-to-image models, creative AI",15,4.8
+E016,"chatbots, dialogue systems, conversational AI, intent recognition, entity extraction",20,4.7
+E017,"mobile development, React Native, iOS, Android, offline capabilities, mobile ML deployment",25,4.4
+E018,"graph neural networks, knowledge graphs, relationship modeling, graph algorithms, Neo4j",10,4.9
+E019,"product management, agile methodologies, user stories, sprint planning, roadmap development",30,4.2
+E020,"optimization algorithms, linear programming, constraint satisfaction, genetic algorithms",20,4.7
+E021,"ETL processes, data warehousing, business intelligence, reporting automation, data lakes",25,4.5
+E022,"federated learning, privacy-preserving ML, differential privacy, secure multi-party computation",10,4.8
+E023,"project management, team coordination, client communication, requirements gathering",30,4.6
+E024,"model optimization, quantization, pruning, knowledge distillation, model compression",20,4.7
+E025,"adversarial machine learning, robustness testing, security in AI, attack detection",15,4.9
+E026,"technical writing, documentation, tutorial creation, knowledge base development",30,4.3
+E027,"MLOps, model serving, feature stores, model monitoring, experiment tracking, ML pipelines",25,4.7
+E028,"data annotation, dataset curation, labeling strategies, active learning, human-in-the-loop",20,4.5
+E029,"speech recognition, audio processing, voice assistants, sound classification, noise reduction",15,4.8
+E030,"IoT systems, edge computing, embedded ML, sensor fusion, low-power ML deployment",25,4.6
+E031,"web scraping, automated data collection, crawler design, data extraction, parsing",30,4.4
+E032,"computer graphics, 3D rendering, simulation, physics engines, virtual environments",10,4.8
+E033,"quality assurance, test automation, regression testing, performance testing, bug tracking",25,4.5
+E034,"high performance computing, CUDA programming, parallel algorithms, vectorization, optimization",15,4.7
+E035,"explainable AI, model interpretability, feature importance, SHAP values, LIME",20,4.9
+E036,"blockchain technology, smart contracts, decentralized applications, web3 integration",25,4.4
+E037,"augmented reality, computer vision for AR, spatial computing, AR user interfaces",15,4.7
+E038,"transfer learning, domain adaptation, few-shot learning, meta-learning approaches",20,4.8
+E039,"user research, A/B testing, user personas, user journey mapping, usability testing",30,4.5
+E040,"statistical analysis, hypothesis testing, experimental design, causal inference",25,4.6
+E041,"recommendation engines, ranking algorithms, relevance optimization, engagement metrics",15,4.9
+E042,"security engineering, penetration testing, vulnerability assessment, secure coding",25,4.5
+E043,"robotics, motion planning, path finding, robotic perception, control systems",10,4.8
+E044,"multi-modal learning, fusion techniques, combining vision and language, multi-sensor",20,4.7
+E045,"data governance, compliance frameworks, data quality management, metadata management",30,4.4
+E046,"backend optimization, system scaling, load balancing, caching strategies, database sharding",15,4.7
+E047,"continuous integration, automated deployment, build systems, release engineering, GitOps",25,4.6
+E048,"language models, GPT fine-tuning, prompt engineering, text generation, summarization",10,4.9
+E049,"data visualization, information design, interactive dashboards, storytelling with data",20,4.5
+E050,"ethical AI, algorithmic fairness, bias mitigation, responsible AI frameworks, governance",15,4.8

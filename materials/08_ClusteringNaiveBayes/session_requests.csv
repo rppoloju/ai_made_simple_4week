@@ -1,0 +1,101 @@
+request_id,request_text,topic
+R001,"I need help implementing a neural network for image classification using PyTorch",ML_Models
+R002,"We're struggling with imbalanced data in our fraud detection model",Data_Preprocessing
+R003,"How can we deploy our trained model as an API endpoint that scales automatically?",Deployment
+R004,"Our model takes too long to train. How can we speed it up without losing accuracy?",Performance_Optimization
+R005,"We need help ensuring our facial recognition system doesn't exhibit bias",AI_Ethics
+R006,"I want to implement a transformer model for our text analysis application",ML_Models
+R007,"How should we handle missing values in our customer dataset?",Data_Preprocessing
+R008,"What's the best way to containerize our ML model using Docker?",Deployment
+R009,"Our inference time is too slow for real-time predictions. How can we optimize?",Performance_Optimization
+R010,"We need to ensure user privacy while still collecting enough data for our model",AI_Ethics
+R011,"Can you help us implement a recommendation system using collaborative filtering?",ML_Models
+R012,"What's the best approach for feature scaling in our regression model?",Data_Preprocessing
+R013,"We need help setting up a CI/CD pipeline for our ML models",Deployment
+R014,"How can we reduce the memory footprint of our large language model?",Performance_Optimization
+R015,"What guidelines should we follow to ensure transparent AI decision-making?",AI_Ethics
+R016,"I want to implement LSTM networks for time series prediction",ML_Models
+R017,"How should we handle outliers in our financial transaction data?",Data_Preprocessing
+R018,"What's the best strategy for A/B testing our deployed models?",Deployment
+R019,"Can you help us optimize our model for edge device deployment?",Performance_Optimization
+R020,"How do we implement explainable AI techniques for our loan approval system?",AI_Ethics
+R021,"I need help implementing a gradient boosting model for our prediction task",ML_Models
+R022,"What's the best approach for encoding categorical variables in our dataset?",Data_Preprocessing
+R023,"How do we implement blue-green deployment for our ML services?",Deployment
+R024,"Our GPU utilization is low during training. How can we improve this?",Performance_Optimization
+R025,"What methodologies should we use to test for algorithmic bias in our HR tool?",AI_Ethics
+R026,"Can you help us implement a custom loss function for our neural network?",ML_Models
+R027,"What techniques should we use for data augmentation in our limited dataset?",Data_Preprocessing
+R028,"How do we manage model versioning in production environments?",Deployment
+R029,"What quantization techniques should we use to speed up our model inference?",Performance_Optimization
+R030,"How can we ensure our chatbot doesn't generate harmful or inappropriate content?",AI_Ethics
+R031,"I need help implementing a CycleGAN for image-to-image translation",ML_Models
+R032,"What's the best approach to normalize our time series data?",Data_Preprocessing
+R033,"How should we handle database connections efficiently in our ML application?",Deployment
+R034,"Our batch processing pipeline is slow. How can we parallelize it effectively?",Performance_Optimization
+R035,"What legal considerations should we address for our AI-driven decision system?",AI_Ethics
+R036,"Can you help us implement a VAE for anomaly detection?",ML_Models
+R037,"How should we handle multi-modal data fusion in our dataset?",Data_Preprocessing
+R038,"What's the best way to implement feature flags for our ML system?",Deployment
+R039,"How can we optimize our model for low-latency mobile inference?",Performance_Optimization
+R040,"What framework should we use for ethical AI governance in our organization?",AI_Ethics
+R041,"I need help implementing a graph neural network for our social network analysis",ML_Models
+R042,"What techniques should we use for handling noisy labels in our training data?",Data_Preprocessing
+R043,"How do we implement canary releases for our ML model updates?",Deployment
+R044,"What distributed training strategy should we use for our large dataset?",Performance_Optimization
+R045,"How should we address potential copyright issues with our generative AI model?",AI_Ethics
+R046,"Can you help us implement a multi-task learning model for our application?",ML_Models
+R047,"What's the best approach for feature selection in high-dimensional data?",Data_Preprocessing
+R048,"How do we implement proper model monitoring in production?",Deployment
+R049,"Our API response time is inconsistent. How can we stabilize performance?",Performance_Optimization
+R050,"What safeguards should we implement to prevent adversarial attacks on our model?",AI_Ethics
+R051,"I need help implementing a reinforcement learning algorithm for our simulation",ML_Models
+R052,"How should we handle class imbalance in our medical diagnosis dataset?",Data_Preprocessing
+R053,"What's the best way to handle model failover in our production environment?",Deployment
+R054,"How can we reduce the startup time of our ML application?",Performance_Optimization
+R055,"What methodologies should we use to ensure our AI adheres to ethical standards?",AI_Ethics
+R056,"Can you help us implement transfer learning using pre-trained models?",ML_Models
+R057,"What techniques should we use for data cleansing in our customer records?",Data_Preprocessing
+R058,"How do we implement authentication and authorization for our ML API?",Deployment
+R059,"What profiling tools should we use to identify bottlenecks in our model?",Performance_Optimization
+R060,"How can we ensure our facial recognition system respects privacy regulations?",AI_Ethics
+R061,"I need help implementing a self-supervised learning approach for our unlabeled data",ML_Models
+R062,"What's the best strategy for handling time-dependent features in our dataset?",Data_Preprocessing
+R063,"How should we structure our ML models for microservice architecture?",Deployment
+R064,"Our model compilation is slow. How can we optimize the build process?",Performance_Optimization
+R065,"What frameworks exist for conducting algorithmic impact assessments?",AI_Ethics
+R066,"Can you help us implement an ensemble method combining different model types?",ML_Models
+R067,"How should we approach feature engineering for our recommendation system?",Data_Preprocessing
+R068,"What's the best way to implement graceful degradation in our ML services?",Deployment
+R069,"How can we optimize our hyperparameter tuning process to run faster?",Performance_Optimization
+R070,"What considerations should we address for data sovereignty in our global AI system?",AI_Ethics
+R071,"I need help implementing a Bayesian neural network for uncertainty estimation",ML_Models
+R072,"What approach should we take for handling concept drift in our production data?",Data_Preprocessing
+R073,"How do we implement proper logging and tracing in our ML pipeline?",Deployment
+R074,"What techniques should we use to reduce inference latency in our critical path?",Performance_Optimization
+R075,"How can we design our AI system to be interpretable by non-technical users?",AI_Ethics
+R076,"Can you help us implement a meta-learning approach for our few-shot learning problem?",ML_Models
+R077,"What's the best strategy for handling hierarchical data in our preprocessing pipeline?",Data_Preprocessing
+R078,"How should we approach load balancing for our ML prediction service?",Deployment
+R079,"Our feature extraction process is a bottleneck. How can we make it more efficient?",Performance_Optimization
+R080,"What guidelines should we follow for responsible AI development in healthcare?",AI_Ethics
+R081,"I need help implementing contrastive learning for our image similarity system",ML_Models
+R082,"How should we handle data versioning alongside our model versioning?",Data_Preprocessing
+R083,"What's the best approach for model serving in a high-throughput environment?",Deployment
+R084,"How can we optimize our data loading pipeline to reduce training time?",Performance_Optimization
+R085,"What framework should we use to ensure our AI complies with new regulations?",AI_Ethics
+R086,"Can you help us implement model distillation to create a smaller production model?",ML_Models
+R087,"What techniques should we use for automated data quality validation?",Data_Preprocessing
+R088,"How do we implement proper secret management for our ML pipeline credentials?",Deployment
+R089,"What strategies work best for parallelizing our feature engineering pipeline?",Performance_Optimization
+R090,"How should we address potential biases in our NLP model's training data?",AI_Ethics
+R091,"I need help implementing a custom attention mechanism for our sequence model",ML_Models
+R092,"What's the best approach for handling cyclical features like hours, days, months?",Data_Preprocessing
+R093,"How should we structure our model artifacts for easy deployment across environments?",Deployment
+R094,"Our cross-validation process is too slow. How can we make it more efficient?",Performance_Optimization
+R095,"What methodologies should we use to conduct regular audits of our AI system?",AI_Ethics
+R096,"Can you help us implement few-shot learning for our classification problem?",ML_Models
+R097,"How should we approach standardizing inconsistent data from multiple sources?",Data_Preprocessing
+R098,"What's the best way to implement rollback capabilities for our model deployments?",Deployment
+R099,"How can we reduce the cold start time of our serverless ML functions?",Performance_Optimization
+R100,"What guidelines should we follow when collecting user data for our AI training?",AI_Ethics
