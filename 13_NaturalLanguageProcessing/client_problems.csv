@@ -1,0 +1,21 @@
+problem_id,problem_description,difficulty_level
+1,"I need help building a chatbot that can answer customer questions about our product catalog and pricing.",Intermediate
+2,"Our team is trying to analyze customer reviews to understand common complaints, but we're not sure how to extract the main topics.",Basic
+3,"We need to classify incoming support tickets automatically to route them to the right department.",Intermediate
+4,"I'm looking for a way to automatically summarize long product descriptions into shorter versions for our mobile app.",Advanced
+5,"We want to build a system that can detect angry or frustrated customers in their written communications.",Intermediate
+6,"Our marketing team needs help analyzing open-ended survey responses to identify key themes.",Basic
+7,"I need to create a system that can extract dates, locations, and people's names from legal documents.",Advanced
+8,"We're trying to build a feature that suggests relevant products based on what customers are searching for.",Intermediate
+9,"Our team needs help creating a simple spam detection system for our internal messaging platform.",Basic
+10,"I need to develop a tool that checks if customer emails about technical issues are clear and complete.",Intermediate
+11,"We want to analyze social media mentions of our brand to track sentiment over time.",Intermediate
+12,"I'm trying to build a feature that can match similar customer questions to existing answers in our knowledge base.",Advanced
+13,"Our HR team wants to analyze employee feedback forms to identify common concerns and suggestions.",Basic
+14,"We need a system that can categorize our blog articles by topic based on their content.",Intermediate
+15,"I'm looking for a way to automatically generate tags for our technical documentation based on content.",Advanced
+16,"We want to build a simple system that checks for offensive or inappropriate language in user-generated content.",Basic
+17,"Our team needs help implementing a feature that catches spelling and grammar mistakes in our content before publishing.",Intermediate
+18,"I need to extract specific information like prices, quantities, and product codes from supplier emails.",Advanced
+19,"We're trying to build a system that can identify different types of questions in customer inquiries.",Intermediate
+20,"Our team wants to compare different product descriptions to find similarities and duplicates.",Basic

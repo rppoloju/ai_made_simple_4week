@@ -1,0 +1,26 @@
+problem_id,problem_description,problem_category
+1,"We need help extracting key information from customer emails about product issues.",Information Extraction
+2,"Our team wants to automatically categorize customer questions as billing, technical, or general inquiries.",Text Classification
+3,"I need help implementing a system that can detect when customers are unhappy in their feedback.",Sentiment Analysis
+4,"We want to build a feature that groups similar customer complaints together.",Text Clustering
+5,"Our company needs a system that can identify important topics in product reviews.",Topic Extraction
+6,"I'm looking for help creating a feature that can identify whether support tickets are urgent or routine.",Text Classification
+7,"We need assistance extracting specific data points like order numbers and dates from customer messages.",Information Extraction
+8,"Our marketing team wants to analyze survey responses to understand customer satisfaction levels.",Sentiment Analysis
+9,"I need help building a system that can group customer feedback by product feature mentioned.",Text Clustering
+10,"We want to identify trending topics in our community forum discussions.",Topic Extraction
+11,"Our team needs a way to detect when customers are confused in their support requests.",Sentiment Analysis
+12,"I'm trying to build a feature that can extract action items from meeting notes.",Information Extraction
+13,"We need help categorizing our knowledge base articles by technical complexity.",Text Classification
+14,"Our product team wants to group feature requests by similarity to identify common needs.",Text Clustering
+15,"I need assistance identifying key concerns in lengthy customer complaint emails.",Topic Extraction
+16,"We want to classify incoming queries as simple questions, complex problems, or feedback.",Text Classification
+17,"Our team needs help extracting contact information and preferred callback times from web form submissions.",Information Extraction
+18,"I'm looking for a way to analyze customer testimonials to highlight the most positive aspects of our service.",Sentiment Analysis
+19,"We need to cluster our technical documentation by related topics to improve navigation.",Text Clustering
+20,"Our research team wants to identify emerging themes in industry publications and blog posts.",Topic Extraction
+21,"I need help building a system that can detect when customers are threatening to cancel our service.",Sentiment Analysis
+22,"We want to extract specific error codes and software versions from technical support requests.",Information Extraction
+23,"Our content team needs a way to classify articles by audience level (beginner, intermediate, advanced).",Text Classification
+24,"I'm looking for help clustering customer success stories by industry and use case.",Text Clustering
+25,"We need assistance identifying the most discussed product features in our user forums.",Topic Extraction

@@ -1,0 +1,31 @@
+feedback_id,feedback_text,human_labeled_sentiment
+1,"The AI engineer was very knowledgeable and explained everything clearly. I understood the solution immediately.",positive
+2,"Session was helpful but I wish we had more time to discuss implementation details.",neutral
+3,"The engineer couldn't solve my problem and seemed confused about my requirements.",negative
+4,"Great session! The engineer provided an elegant solution that was easy to implement.",positive
+5,"The solution works but I'm not sure if it's the most efficient approach for our needs.",neutral
+6,"I was disappointed with the session. The engineer was late and seemed unprepared.",negative
+7,"Very impressed with the engineer's expertise. They solved in an hour what my team couldn't figure out in a week!",positive
+8,"The engineer was professional but the solution was more complex than I expected.",neutral
+9,"Terrible experience. The engineer didn't understand basic concepts related to my problem.",negative
+10,"Exactly what I needed! Clear explanation, working solution, and bonus tips for future improvements.",positive
+11,"The solution addresses our current needs but might not scale well as we grow.",neutral
+12,"The engineer wasn't familiar with the technologies we use. Waste of time and money.",negative
+13,"Excellent session! The engineer not only solved my problem but taught me valuable techniques.",positive
+14,"Solution is functional but documentation could be more thorough.",neutral
+15,"The engineer kept suggesting solutions that weren't relevant to my actual problem.",negative
+16,"Very productive hour! The engineer was efficient and the solution was perfect.",positive
+17,"The session was okay. Got a working solution but nothing exceptional.",neutral
+18,"Frustrated with the quality of help. The engineer seemed distracted and uninterested.",negative
+19,"The engineer went above and beyond to make sure I understood every aspect of the solution.",positive
+20,"Solution works for now but might need optimization in the future.",neutral
+21,"The engineer was patronizing and made me feel silly for asking questions.",negative
+22,"Fantastic experience from start to finish. Solution was elegant and efficient.",positive
+23,"The engineer had good technical knowledge but could improve communication skills.",neutral
+24,"Not what I expected. The solution doesn't address the core issues we're facing.",negative
+25,"Extremely satisfied with the help I received. Will definitely book another session!",positive
+26,"Session met basic expectations but didn't exceed them.",neutral
+27,"The engineer spent too much time on theory and not enough on practical implementation.",negative
+28,"Brilliant session! The engineer quickly understood my problem and provided an innovative solution.",positive
+29,"The solution is a good starting point but will need some adjustments for our specific case.",neutral
+30,"The engineer didn't seem to have experience with problems like mine.",negative
